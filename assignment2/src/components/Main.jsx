@@ -5,7 +5,7 @@ import { IoPersonSharp } from "react-icons/io5";
 const Main = () => {
     return (
         <>
-            <main className='w-full h-[80vh] bg-[#131212] flex flex-col items-center gap-[1rem] px-4 z-30 lg:absolute lg:right-0 lg:w-[85vw] lg:h-[88vh] top-[7rem] lg:px-12'>
+            <main className='w-full h-[80vh] bg-[#131212] flex flex-col items-center gap-[1rem] px-4 z-30 lg:absolute lg:right-0 lg:w-[83vw] lg:h-[83vh] top-[7rem] lg:px-12 md:overtflow-y-hidden lg:overtflow-y-hidden'>
                 <div className="top w-full h-[5%] flex items-center justify-between text-xl font-semibold text-white">
                     <p>Overview</p>
                 </div>

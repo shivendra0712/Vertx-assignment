@@ -15,9 +15,9 @@ const Navbar = () => {
             <div className='w-[2.5rem] h-[2.5rem] bg-white rounded-full flex items-center justify-center'>
               <LuPyramid className='text-black text-2xl rotate-[180deg]'/>
             </div>
-            <p className='text-xl'>Vertxlabs, Inc</p>
+            <p className='text-lg '>Vertxlabs, Inc</p>
           </div>
-          <div className='middle w-[70%] h-full flex px-8 items-center lg:border-white/30 lg:border-r-2 lg:border-l-2'>
+          <div className='middle w-[70%] h-full flex px-8 items-center l'>
             <p>Profile</p>
           </div> 
           <div className='right w-[15%] h-full flex justify-end items-center'>

@@ -8,7 +8,7 @@ import Sidebar from './components/Sidebar'
 const App = () => {
   return (
     <>
-    <div className="wraaper w-full h-screen bg-black md:flex">
+    <div className="wraaper w-full h-screen bg-black md:flex overflow-y-hidden">
       <Navbar/>
       <Sidebar/>
       <Tabs/>
