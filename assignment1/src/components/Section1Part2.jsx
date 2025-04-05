@@ -1,18 +1,4 @@
-// import React from "react";
 
-// const Section1Part2 = () => {
-//   return (
-//     <div className="bg-[#111] px-4 py-1 rounded-lg shadow-lg">
-//       <h2 className="text-xl font-bold mb-4">Insights</h2>
-//       <p className="text-lg">Founders: <span className="font-semibold">7.4K</span></p>
-//       <p className="text-lg">Investors: <span className="font-semibold">6.09K</span></p>
-//     </div>
-//   );
-// };
-
-// export default Section1Part2;
-
-// InsightsCard.jsx
 import React from "react";
 import { FaArrowRight } from "react-icons/fa";
 

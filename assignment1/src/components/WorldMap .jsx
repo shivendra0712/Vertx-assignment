@@ -1,4 +1,4 @@
-// WorldMap.jsx
+
 import React from "react";
 
 import image from '../assists/image.png'

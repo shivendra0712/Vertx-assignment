@@ -1,4 +1,4 @@
-// CountryStats.jsx
+
 import React from 'react';
 
 const countries = [
